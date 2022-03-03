@@ -31,3 +31,9 @@ git commit -m "Digite o nome do arquivo"
 ```bash
 git add .
 ```
+
+### Usar este site para pegar dicas 
+
+```bash
+"https://www.dummies.com/article/technology/programming-web-design/java/how-to-use-the-javac-command-172116" 
+```
