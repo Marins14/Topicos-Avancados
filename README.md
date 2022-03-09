@@ -37,3 +37,14 @@ git add .
 ```bash
 "https://www.dummies.com/article/technology/programming-web-design/java/how-to-use-the-javac-command-172116" 
 ```
+
+### Clonar um repositório 
+```bash
+git clone "link do repositório"
+```
+
+### para salvar o repositório direto no git
+```bash 
+git commit 
+git push "para logar,usa o token"
+```
