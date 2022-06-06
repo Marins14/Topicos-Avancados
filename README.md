@@ -1,5 +1,5 @@
 # ecm251-2022
-Repositório para disciplina ECM251-2022
+Repositório para disciplinas em geral  
 # ECM251 - Utilizando Git
 
 Em primeiro lugar, configurar quem é o usuário (***nome***) e qual seu ***e-mail***.
