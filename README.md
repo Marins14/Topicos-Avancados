@@ -1,6 +1,6 @@
-# ecm251-2022
-Repositório para disciplinas em geral  
-# ECM251 - Utilizando Git
+# Códigos de Estrutra de dados 
+Repositório com destino a utilização de Tópicos avançados em estrutura de dados.  
+# Utilizando Git
 
 Em primeiro lugar, configurar quem é o usuário (***nome***) e qual seu ***e-mail***.
 
